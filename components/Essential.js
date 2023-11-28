@@ -50,7 +50,7 @@ const Essential = () => {
 
         <div className="box reveal">
             <div className="image">
-                <img src="images/blog-3.jpg" alt=""/>
+                <img src="img/blog-3.jpg" alt=""/>
                 <div className="share">
                     <a href="#" className="fab fa-facebook-f"></a>
                  <a href="#" className="fab fa-twitter"></a>
@@ -107,7 +107,7 @@ const Essential = () => {
         </div>
         <div className="box reveal">
             <div className="image">
-                <img src="images/gallery-1.jpg" alt=""/>
+                <img src="img/gallery-1.jpg" alt=""/>
                 <div className="share">
                     <a href="#" className="fab fa-facebook-f"></a>
                  <a href="#" className="fab fa-twitter"></a>

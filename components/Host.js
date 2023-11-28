@@ -12,7 +12,7 @@ const Host = () => {
 
         <div class="box reveal">
             <div class="image">
-                <img src="images/blog-1.jpg" alt=""/>
+                <img src="img/blog-1.jpg" alt=""/>
             </div>
             <div class="content">
                 <h3>Bella Jimenez</h3>
@@ -46,7 +46,7 @@ const Host = () => {
 
         <div class="box reveal">
             <div class="image">
-                <img src="images/blog-3.jpg" alt=""/>
+                <img src="img/blog-3.jpg" alt=""/>
             </div>
             <div class="content">
                 <h3>Caitlin Henderson</h3>

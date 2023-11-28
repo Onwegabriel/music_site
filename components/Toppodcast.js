@@ -20,7 +20,7 @@ const Toppodcast = () => {
 
     <div class="box reveal">
         <div class="image">
-            <img src="images/artist-1.jpg" alt=""/>
+            <img src="img/artist-1.jpg" alt=""/>
             <div class="share">
                 <a href="#"><BsHeadset/></a>
             </div>
@@ -35,7 +35,7 @@ const Toppodcast = () => {
 
     <div class="box reveal">
         <div class="image">
-            <img src="images/artist-2.jpg" alt=""/>
+            <img src="img/artist-2.jpg" alt=""/>
             <div class="share">
             <a href="#"><BsHeadset/></a>
             </div>
@@ -50,7 +50,7 @@ const Toppodcast = () => {
 
     <div class="box reveal">
         <div class="image">
-            <img src="images/artist-3.jpg" alt=""/>
+            <img src="img/artist-3.jpg" alt=""/>
             <div class="share">
             <a href="#"><BsHeadset/></a>
             </div>
