@@ -5,7 +5,7 @@ import { BsFillPlusCircleFill } from 'react-icons/bs'
 const More = () => {
   return (
 
-    <section class="gallery" id="gallery">
+    <section class="gallery" id="gallery" style={{backgroundImage:"url('Img/blog-2.jpg')"}}>
 
 
 
