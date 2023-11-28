@@ -7,7 +7,7 @@ import { BsSoundwave } from "react-icons/bs";
 const Hero = () => {
   return (
 
-        <section className="home" id="home">
+        <section className="home" id="home" style={{backgroundImage:"url('Img/home.png') no repeat"}}>
   <Navbar />
 <div className="content">
     <h3>New episodes <br/> avaiiable now</h3>
