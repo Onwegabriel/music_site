@@ -143,7 +143,7 @@ section{
 .home{
   display: flex;
   align-items: center;
-  background: url(../public/img/home.png) no-repeat;
+/*   background: url(../public/img/home.png) no-repeat; */
   min-height: 110vh;
   background-size: cover;
   background-position: center;
@@ -380,7 +380,7 @@ section{
 .gallery{
   background: #f0f4ff;
   height: 500px;
-  background-image: url(../public/Images/blog-2.jpg);
+/*   background-image: url(../public/Images/blog-2.jpg); */
   box-sizing: border-box;
 }
 
